@@ -1,0 +1,22 @@
+.container{
+    background-color: darkseagreen ;
+    
+    border: 1px solid hsl(30, 22%, 96%);
+}
+.container button{
+
+    border: 1px solid hsl(30, 22%, 96%);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 8px;
+
+}
+.container input{
+   
+    border: 1px solid hsl(30, 22%, 96%);
+}
+.container button:hover{
+    background-color: burlywood;
+    
+}
+
